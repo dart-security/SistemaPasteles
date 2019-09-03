@@ -1,5 +1,5 @@
 # SistemaPasteles
-Sistema en C de una pasteleria
+Sistema en C de una pasteleria<br>
 	Seleccione una opcion
 	1. Entregados<br>
 	2. Cancelados<br>
